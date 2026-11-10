@@ -46,9 +46,9 @@ This repository is organised as follows:
 
 Each species is referred to with a short acronym all through this project (in all scripts, file and folder names, etc.). For the three scleractinian coral single-cell atlases here produced, we use these:
 
-- `Ocupat` for *Oculina patagonica*
-- `Amil` for *Acropora millepora*
-- `Spin` for *Stylophora pistillata*
+- `Ocupat` for *Oculina patagonica*. For this species, we have sequenced four single-cell transcriptomic libraries, two of them in aposymbiotic (bleached) state (sample IDs all throughout this repository: `Ocupat01_OPB` and `Ocupat03_Opat02B`), and two of them in symbiotic (unbleached) state (`Ocupat02_OPUB` and `Ocupat04_Opat02U`).
+- `Amil` for *Acropora millepora*. For this species, we have sequenced two samples (both of them symbiotic; `Amil01` and `Amil02_ACM`).
+- `Spin` for *Stylophora pistillata*. For this species, we have sequenced one sample (symbiotic: `Spis01_STP`).
 
 We have compared these three corals to other species, namely:
 
